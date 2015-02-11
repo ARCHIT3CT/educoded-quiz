@@ -1,5 +1,3 @@
 <?
 
-echo "hello world";
-
-echo "this is new";
+	include 'include/header.php';
