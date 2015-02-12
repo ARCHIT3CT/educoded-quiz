@@ -1,3 +1,3 @@
 # educoded quiz
 
-- [DEMO](http://kavada.com/educoded-quiz)
+## [DEMO](http://kavada.com/educoded-quiz)
